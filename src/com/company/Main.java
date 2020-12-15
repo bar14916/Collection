@@ -20,6 +20,5 @@ public class Main {
         Box b6 = new Box(3, 2, 3, 40);
 
         Results.getResults(Box.boxArrayList);
-        Results.getResults(Box.boxArrayList);
     }
 }
